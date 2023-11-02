@@ -5,4 +5,4 @@ These files can be used to test and compare black-box optimization algorithms.
 
 The "statistics.csv" file includes the name of each problem, the number of variables, and the optimal objective value.
 
-For any comments/questions, contact Nikos Ploskas at nploskas<at>uowm.gr.
+For any comments/questions, contact Nikos Ploskas at nploskas<<at>>uowm.gr.
